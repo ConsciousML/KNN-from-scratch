@@ -5,7 +5,7 @@ The goal of this project is to understand how K-nearest neigbhors works.<br>
 The experiment is implemented using PyTorch.
 
 ## Wine Quality Dataset
-The K-nearest neighbors is trained on physicochemical data to predict the quality of a red or white wine<br>
+The K-nearest neighbors is trained on physicochemical data to predict the quality of a red or white wines.<br>
 This dataset contains 6497 samples and the following features:
 - fixed acidity
 - volatile acidity
